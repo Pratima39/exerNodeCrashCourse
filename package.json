@@ -1,0 +1,25 @@
+{
+  "name": "exernodecrashcourse",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratima39/exerNodeCrashCourse.git"
+  },
+  "author": "Pratima B Lamichhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratima39/exerNodeCrashCourse/issues"
+  },
+  "homepage": "https://github.com/Pratima39/exerNodeCrashCourse#readme",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
